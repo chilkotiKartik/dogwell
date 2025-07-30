@@ -11,7 +11,7 @@ We'll title it: **“DOG-VERSE: AI-Powered Pet Care & Adoption UI”**
 👨‍💻 Developed by: [Kartik Chilkoti](https://github.com/chilkotiKartik)  
 🎨 UI/UX Focused | Built with React + Tailwind CSS  
 📅 Released: 2025
-
+  
 ---
 
 ## 🐶 What is DOG-VERSE?
